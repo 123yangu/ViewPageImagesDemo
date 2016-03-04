@@ -22,11 +22,11 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        CircleIndicator:ci_background="@color/main_launcher_dot_normal"
+        CircleIndicator:ci_background="@color/gray"
         CircleIndicator:ci_gravity="center"
         CircleIndicator:ci_margin="5dp"
         CircleIndicator:ci_mode="outside"
         CircleIndicator:ci_radius="10dp"
-        CircleIndicator:ci_selected_background="@color/white" />
+        CircleIndicator:ci_selected_background="@color/main_launcher_dot_normal" />
 
 </RelativeLayout>
