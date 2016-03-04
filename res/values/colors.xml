@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 下划线的背景颜色 -->
+    <color name="color_down_line_color">#E5E5E5</color>
+    <!-- 白色 -->
+    <color name="white">#FFFFFF</color>
+    <!-- 蓝色 -->
+    <color name="blue">#4CB0FC</color>
+    <!-- 黑色 -->
+    <color name="black">#010101</color>
+    <!-- 首页底部字体颜色 -->
+    <color name="color_index_button">#AEC8EA</color>
+    <!-- 透明 -->
+    <color name="color_appstar">#9FCAE8</color>
+    <!-- 启动页字体颜色 -->
+    <color name="transparent">#00000000</color>
+    <!-- 讨论 -->
+    <color name="color_discussion_left_title">#333F4A</color>
+    <!-- 讨论左侧主色调 -->
+    <color name="color_discussion_left_main">#F0F3F5</color>
+    <!-- 讨论左侧主色调 -->
+    <color name="color_discussion_right_title">#5AADE6</color>
+    <!-- 讨论左侧列表医生介绍 -->
+    <color name="color_discussion_left_list_introduce">#B1B4B6</color>
+    <!-- 群聊输入框背景 -->
+    <color name="color_discussion_right_inpu_bg">#F7F7F7</color>
+    <!-- 确认弹框 -->
+    <color name="color_doctor_info">#B5B5B5</color>
+
+    <!-- 学术讨论没有网络 -->
+    <color name="color_discussion_not_net">#FFD8D9</color>
+    
+    <!-- dot未选中 -->
+    <color name="main_launcher_dot_normal">#5094c5</color>
+    
+
+    <!-- 群消息 -->
+    <color name="text_shadow_color">#66000000</color>
+    <drawable name="trans">@color/color_hei_8</drawable>
+
+    <color name="color_hei">#ff000000</color>
+    <color name="color_hei_8">#00000000</color>
+    <color name="color_cihei">#ff333333</color>
+    <color name="color_shenhui">#ff999999</color>
+    <color name="color_zhonghui">#ff798089</color>
+    <color name="color_qianhui">#ff888b8d</color>
+    <color name="color_zuiqianhui">#ffb4b4b4</color>
+    <color name="color_bai">#ffffffff</color>
+    <color name="color_bai_8">#ffffffff</color>
+    <color name="color_lan">#ff067bb1</color>
+    <color name="window_bg">#ffeef1f3</color>
+    <color name="title_bg">#ff54acea</color>
+    <color name="chat_background">@color/window_bg</color>
+    <color name="chat_title_name">@color/color_bai</color>
+    <color name="chat_text">@color/color_cihei</color>
+    <color name="chat_time">@color/color_bai</color>
+    <color name="chat_history_time_text">@color/color_shenhui</color>
+    <color name="screenshot_normal">#3f000000</color>
+    <color name="screenshot_pressed">#bf000000</color>
+    <color name="recent_msg">@color/color_zhonghui</color>
+    <color name="search_text">#ff929292</color>
+    <color name="search_cancel_text">#ff0e0e0e</color>
+    <color name="color_divider">#ffc9c9c9</color>
+    <color name="color_divider_for_contactlist_lower">#ffc2c8cd</color>
+    <color name="color_divider_for_trooplist">#ffc9c9c9</color>
+    <color name="color_divider_for_recentlist_upper">#ffadb4ba</color>
+    <color name="semi_transparent">#7f000000</color>
+    <color name="semi_transparent_w">#7fffffff</color>
+    <color name="sqqname">#ffee860a</color>
+    <color name="list_item_focus_for_troop">#ffe9eaeb</color>
+    <color name="list_item_focus_for_friendlist">#ffd3d7da</color>
+    <color name="list_contact_prompt_line">#ffc2c8cd</color>
+    <color name="thirty_transparent_black">#4d000000</color>
+    <color name="twenty_transparent_black">#33000000</color>
+    <color name="fifteen_trans_black">#26000000</color>
+    <color name="add_troop_member_bg">#ffdadfe2</color>
+    <color name="sc_transparent_background">@color/color_hei_8</color>
+    <color name="text_drag_refresh_big">@color/color_shenhui</color>
+    <color name="setting_bg">#ffe3e6e8</color>
+    <color name="emo_item_sel">#ff1f2124</color>
+    <color name="gray">#ff777777</color>
+    <color name="red">#ffff0000</color>
+    <color name="transparentpercent">#e5000000</color>
+    <color name="lightgray">#ff555555</color>
+    <color name="button_reply_normal">#ffffffff</color>
+    <color name="button_reply_pressed">#fffff8d0</color>
+    <color name="translucent_background">#5c000000</color>
+    <color name="text_nick_name">#ff333333</color>
+    <color name="text_comment">#ff6b6b6b</color>
+    <color name="shorttextColor">#ff8d8d8d</color>
+    <color name="comment_nick_name">#ff000000</color>
+    <color name="holo_blue">#FF33E5B5</color>
+
+    <!-- 相册begin -->
+    <color name="list_divider_color">#d1d1d1</color>
+    <color name="album_list_item_count_color">#bcbcbc</color>
+    <color name="user_portrait_bk">#20465A</color>
+    <color name="default_light_black_color">#424242</color>
+    <!-- 相册end -->
+
+    <color name="grey">#58616d</color>
+    <color name="color_cyclingdate">#FF3300</color>
+    <color name="switchtextcolor">#FFFFFF</color>
+    <color name="orange">#ff3300</color>
+    <color name="titlbarBgColor">#181A1A</color>
+    <!-- 群消息 -->
+
+
+    <!-- 自定义iso对话框 开始 -->
+    <color name="trans">#00000000</color>
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+    <!-- 自定义iso对话框 结束 -->
+
+
+    <!-- auto viewpager -->
+    <color name="button_red_n">#FFFF6666</color>
+    <color name="button_red_p">#FFCC5252</color>
+    <color name="bg_title_bar">#f5f5f5</color>
+    <color name="divider_titlebar">#fafafa</color>
+    <color name="divider_normal">#dcdcdc</color>
+    <color name="green">#109600</color>
+    <color name="green_light_n">#5eba42</color>
+    <color name="green_light_p">#4da034</color>
+    <color name="green_light2">#55109600</color>
+    <color name="color_action_txt">#4cb200</color>
+    <color name="yellow">#efea38</color>
+    <color name="orange_n">#ffffc727</color>
+    <color name="orange_p">#ffdcad29</color>
+    <color name="text_black_dark">#ff424242</color>
+    <color name="text_black_light">#33424242</color>
+    <color name="gray_dark">#ff414141</color>
+    <color name="gray_light">#33414141</color>
+    <color name="gray_light3">#66414141</color>
+    <color name="gray_light4">#99414141</color>
+    <color name="gray_light5">#aa414141</color>
+    <color name="text_blue">#1C86EE</color>
+    <color name="text_green">#63ba1b</color>
+    <color name="purple">#640778</color>
+
+    <item name="gray_holo_dark" type="color">#ff464646</item>
+    <item name="gray_holo_light" type="color">#ffd0d0d0</item>
+
+    <color name="black_translucent">#40000000</color>
+    <color name="white_translucent">#40ffffff</color>
+    <color name="gray_light_translucent">#40303030</color>
+    <color name="gray_light2">#ffe0e0e0</color>
+    <color name="background">#fff0f0f0</color>
+    <color name="selector_listview_n">#80a2cae2</color>
+    <color name="selector_listview_p">#a8a2cae2</color>
+    <color name="btn_green_n">#ff5eba42</color>
+    <color name="btn_green_p">#ff4da034</color>
+    <color name="fresco_default_placeholder">#e1e4eb</color>
+    <color name="fresco_default_error">#ff9999</color>
+
+    <!-- A light Holo shade of blue -->
+    <color name="holo_blue_light">#ff33b5e5</color>
+    <!-- A light Holo shade of green -->
+    <color name="holo_green_light">#ff99cc00</color>
+    <color name="dark_orange">#f05806</color>
+    <!-- A dark Holo shade of blue -->
+    <color name="holo_blue_dark">#ff0099cc</color>
+    <!-- A dark Holo shade of green -->
+    <color name="holo_green_dark">#ff669900</color>
+    <!-- A light Holo shade of red -->
+    <color name="holo_red">#ffff0000</color>
+    <color name="holo_red_light">#ffff4444</color>
+    <!-- A dark Holo shade of red -->
+    <color name="holo_red_dark">#ffcc4444</color>
+    <!-- A Holo shade of purple -->
+    <color name="holo_purple">#ffaa66cc</color>
+    <!-- A light Holo shade of orange -->
+    <color name="holo_orange_light">#ffffbb33</color>
+    <!-- A dark Holo shade of orange -->
+    <color name="holo_orange_dark">#ffff8800</color>
+    <!-- A really bright Holo shade of blue -->
+    <color name="holo_blue_bright">#ff00ddff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="text_normal_black">#5a5a5a</color>
+    <!-- auto viewpager -->
+    
+    <!-- 进度 -->
+    <color name="custom_progress_blue_progress">#6DCC39</color>
+    <color name="custom_progress_background">#DCDCDC</color>
+     <color name="round_corner_progress_bar_background_default">#5f5f5f</color>
+    <color name="round_corner_progress_bar_progress_default">#7f7f7f</color>
+    <color name="round_corner_progress_bar_secondary_progress_default">@android:color/transparent</color>
+    <!-- 进度 -->
+
+</resources>
